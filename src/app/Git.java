@@ -8,7 +8,7 @@ public class Git {
 		Scanner cs=new Scanner(System.in);
 		int num1;
 		int num2;
-		int suma, resta;
+		int suma, resta;//hola
 		int opcion = 0;
 		
 		
