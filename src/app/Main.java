@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("Fumar es malo Hasan");
 		System.out.println("aaaaaaaaaaaaaaa");
 		System.out.println("aaaaaaaaaaaaa");
+		System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 	}
 
 }
